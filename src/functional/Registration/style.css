@@ -1,0 +1,8 @@
+.registration-form{
+    border: 1px solid #d5d5d5;
+    width: 40%;
+}
+
+.registration-form > div {
+    min-height: 60px;
+}
